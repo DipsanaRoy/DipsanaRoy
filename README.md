@@ -26,8 +26,8 @@ I’m currently pursuing **B.Tech in Computer Science** and using this profile t
 
 ## Connect with Me:
 
-- GitHub Projects: [@Dipsana](https://github.com/Dipsana)
-- [LinkedIn](https://www.linkedin.com/in/dipsana)
+> GitHub Projects: [@Dipsana](https://github.com/Dipsana)
+> [LinkedIn](https://www.linkedin.com/in/dipsana)
 
 ---
 
