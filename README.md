@@ -28,11 +28,13 @@ I’m currently pursuing **B.Tech in Computer Science** and using this profile t
 
 - GitHub Projects: [@Dipsana](https://github.com/Dipsana)
 - [LinkedIn](https://www.linkedin.com/in/dipsana)
+- Portfolio: [https://dipsana.github.io/portfolio/](https://dipsana.github.io/portfolio/)
 
 ---
 
 Thanks for visiting my learning space!  
 Let’s grow, build, and learn—one step at a time.
+
 
 <!---
 DipsanaRoy/DipsanaRoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
